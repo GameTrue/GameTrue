@@ -43,6 +43,7 @@
 - [Unsupervised Learning](https://github.com/GameTrue/unsupervised-IS-ML): Сбор данных, создание и обучение unsupervised модели.
 - [Text Classification](https://github.com/GameTrue/textClassification-IS-ML): Сбор данных и обучение модели анализа отзывов.
 - [Image Classification](https://github.com/GameTrue/imageClassification-IS-ML): Сбор данных и обучение моделей (CNN + Transfer) классификации изображений.
+- [Audio Classification](https://github.com/GameTrue/audioClassification-IS-ML): Сбор данных, создание и обучение моделей для классификации аудио файлов.
 
 ### 🌐 Проекты по веб-разработке
 - [Frontend Development](https://github.com/GameTrue/WEB-front): Современные подходы HTML/CSS/JavaScript для создания пользовательских интерфейсов.
