@@ -27,6 +27,7 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Pascal](https://img.shields.io/badge/Pascal-E3F171?style=for-the-badge&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-ba55d3?style=for-the-badge&logo=kotlin&logoColor=black)
 
 ### Инструменты
 - **Machine Learning**: TensorFlow, PyTorch, Scikit-learn, Keras, NumPy, Pandas, NLTK
